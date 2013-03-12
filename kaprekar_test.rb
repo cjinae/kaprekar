@@ -21,3 +21,5 @@
 #7. do the same for the right = var right
 #8. join & .to_i & sum each left/right array 
 #9. compare new number to number
+
+#hello
